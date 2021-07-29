@@ -1,0 +1,20 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-09-02T21:07:51Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "fuente_dual_power"
+        },
+        "Owner": "Carlos German Carreo Romano <charlieromano@gmail.com>"
+    }
+}
